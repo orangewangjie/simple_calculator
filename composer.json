@@ -1,4 +1,5 @@
 {
+    "name":"xjcy/calculator",
     "require-dev": {
         "phpunit/dbunit": "^2.0"
     },
